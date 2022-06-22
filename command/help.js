@@ -183,3 +183,7 @@ exports.donate = (pushname, ownerNumber) => {
     return`Contact  Owner:
 wa.me/6282135905896 (Owner)`
 }
+
+
+
+..
